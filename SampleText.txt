@@ -1,1 +1,2 @@
 This this a cloned folder from git hub
+This Repository contains Java codes
